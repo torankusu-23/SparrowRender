@@ -1,2 +1,2 @@
 # SparrowRender
-Rasterization Render for windows only
+Rasterization Renderer for windows only
